@@ -11,7 +11,7 @@
     "antd": "^4.3.3",
     "aos": "^2.3.4",
     "axios": "^0.19.2",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "ramda": "^0.27.0",
     "react": "^16.13.1",
     "react-content-loader": "^5.1.0",
